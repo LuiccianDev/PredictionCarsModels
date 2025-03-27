@@ -1,0 +1,36 @@
+# configuartion for core app
+
+database:
+  url: "postgresql://usuario:password@localhost:5432/mibase"
+
+security:
+  algorithm: "HS256"
+  access_token_expire_minutes: 30
+  refresh_token_expire_days: 30
+
+models_name_predict:
+  model_1 : "model_1"
+  model_2 : "model_2"
+  model_3 : "model_3"
+  
+models_path :
+  model_1 : "models/model_1.pkl"
+  model_2 : "models/model_2.pkl"
+  model_3 : "models/model_3.pkl"
+
+
+endpoints:
+  auth:
+    login: "/auth/login"
+
+  users:
+    get_user: "/users/{user_id}"
+    create_user: "/users/create"
+    update_user: "/users/update/{user_id}"
+    delete_user: "/users/delete/{user_id}"
+
+  predictions:
+    predict_model1: "/predict/model1"
+    predict_model2: "/predict/model2"
+    predict_model3: "/predict/model3"
+

@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "quote": "“Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo expedita voluptas culpa sapiente alias molestiae. Numquam corrupti in laborum sed rerum et corporis.”",
+      "authorName": "Judith Black",
+      "authorRole": "CEO of Workcation",
+      "authorImage": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
+    },
+    {
+      "id": 2,
+      "quote": "“Otra cita o comentario de prueba. Nemo expedita voluptas culpa sapiente alias molestiae. Numquam corrupti in laborum sed rerum et corporis.”",
+      "authorName": "John Doe",
+      "authorRole": "CTO of Workcation",
+      "authorImage": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
+    },
+    {
+      "id": 3,
+      "quote": "“La mejor experiencia que he tenido con una empresa.”",
+      "authorName": "Jane Smith",
+      "authorRole": "Marketing Manager",
+      "authorImage": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8MHx8&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
+    },
+    {
+      "id": 4,
+      "quote": "“Increíble atención al cliente y calidad en el servicio.”",
+      "authorName": "Michael Johnson",
+      "authorRole": "Freelancer",
+      "authorImage": "https://images.unsplash.com/photo-1511367461989-f85a21fda167?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
+    },
+    {
+      "id": 5,
+      "quote": "“La mejor experiencia que he tenido con una empresa.”",
+      "authorName": "Jane Smith",
+      "authorRole": "Marketing Manager",
+      "authorImage": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8MHx8&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
+    },
+    {
+      "id": 6,
+      "quote": "“Increíble atención al cliente y calidad en el servicio.”",
+      "authorName": "Michael Johnson",
+      "authorRole": "Freelancer",
+      "authorImage": "https://images.unsplash.com/photo-1511367461989-f85a21fda167?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
+    },
+    {
+      "id": 7,
+      "quote": "“La mejor experiencia que he tenido con una empresa.”",
+      "authorName": "Jane Smith",
+      "authorRole": "Marketing Manager",
+      "authorImage": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8MHx8&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
+    },
+    {
+      "id": 8,
+      "quote": "“Increíble atención al cliente y calidad en el servicio.”",
+      "authorName": "Michael Johnson",
+      "authorRole": "Freelancer",
+      "authorImage": "https://images.unsplash.com/photo-1511367461989-f85a21fda167?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
+    },
+    {
+      "id": 9,
+      "quote": "“La mejor experiencia que he tenido con una empresa.”",
+      "authorName": "Jane Smith",
+      "authorRole": "Marketing Manager",
+      "authorImage": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8MHx8&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
+    },
+    {
+      "id": 10,
+      "quote": "“Increíble atención al cliente y calidad en el servicio.”",
+      "authorName": "Michael Johnson",
+      "authorRole": "Freelancer",
+      "authorImage": "https://images.unsplash.com/photo-1511367461989-f85a21fda167?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
+    }
+  ]
+  
